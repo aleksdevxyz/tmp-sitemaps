@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://teleshtorm.net/ru/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/en/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/de/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/es/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/fr/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/it/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://teleshtorm.net/pt/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
